@@ -1,0 +1,33 @@
+: Play with repl while running commands and operators
+i=5
+j=1
+while i>=5:
+    print("mruu")
+    while j<=1:
+        print("sushma")
+        i=i-1
+        j=j+1
+->
+mruu
+sushma
+---------------
+print("BTS")
+
+->BTS
+---------------
+a=10
+b=5
+c=a+b
+print(c)
+
+->15
+----------------
+Given a no print its remainder. Which command will you use ?
+-> %
+----------------
+ Experiment with str concatenation.
+->a=("hello world")
+print(a[2])
+=>l
+----------------
+

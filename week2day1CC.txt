@@ -1,0 +1,9 @@
+a=int(input("enter a number"))
+b=int(input("enter a number"))
+c=a+b
+    if a <5100:
+print(c)
+else:
+    print("can't run")
+
+
